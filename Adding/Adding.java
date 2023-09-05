@@ -9,8 +9,10 @@ public class Adding {
         System.out.println("Enter First Number:");
         int a = scan.nextInt();
 
+        System.out.println("Enter Second number:");
+		int b = scan.nextInt();
 
-        System.out.println(a);
+        System.out.println(a + b);
         
     }
 }
